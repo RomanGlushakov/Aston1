@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val name = "Hello"
-        val aston = "Aston"
+        
     }
 }
